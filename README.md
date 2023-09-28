@@ -1,8 +1,10 @@
 # Tokyo Dreams in Geodetic Prose
 
-- I like looking for apartments
-- I like Tokyo and the surrounding area
-- I like Geodetic data
+:sparkles: I like looking for apartments
+
+:sparkles: I like Tokyo and the surrounding area
+
+:sparkles: I like Geodetic data
 
 So here you have (in development) a collection of small tools I will use for apartment hunting. For now just to scratch my itch, but eventually to help me find my dream place in the Tokyo metro.
 
