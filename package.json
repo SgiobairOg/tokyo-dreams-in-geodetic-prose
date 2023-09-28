@@ -1,0 +1,14 @@
+{
+  "name": "tokyo-dreams-in-geodetic-prose",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "preinstall": "npx only-allow pnpm",
+    "build:all": "turbo run build --include-dependencies"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
