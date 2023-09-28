@@ -13,10 +13,14 @@ So here you have (in development) a collection of small tools I will use for apa
 - [ ] Leverage Google APIs to have a microservice that will build and periodically refresh Isochrones (lines of equal trvel time) around target areas.
 - [ ] Build a microservice to store my Isochrones for reference.
 - [ ] Build a Firefox Plugin to tell me if an apartment is inside or outside of my Isochrones.
+- [ ] Contract-based types and testing.
+- [ ] ...
 
 ## Tools
 
 - PNPM Workpsaces and Turbo Repo for Pacakage and Dependency Management
 - NestJS
+- Jest
+- Zod
 - Google Routes API
 - Google Geocoding API
