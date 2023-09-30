@@ -1,0 +1,20 @@
+{
+  "name": "tokyo-dreams__contract",
+  "version": "0.0.0",
+  "description": "Contract for types and validation for tokyo-dreams ecosystem",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "rm -rf dist && tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Aoibhe Wilson <aoibhe@wilsons.io>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "zod": "^3.22.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}

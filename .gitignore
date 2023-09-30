@@ -174,3 +174,14 @@ dist
 
 # SvelteKit build / generate output
 .svelte-kit
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+### Turbo ###
+# Turborepo task cache
+.turbo

@@ -6,7 +6,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "preinstall": "npx only-allow pnpm",
     "build:all": "turbo run build --include-dependencies",
-    "lint": "eslint --ignore-path .gitignore --config ./shared/.eslintrc.json --ext .ts"
+    "lint": "eslint --ignore-path .gitignore --config ./shared/.eslintrc.json --ext .ts -v"
   },
   "keywords": [],
   "author": "",

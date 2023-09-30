@@ -1,6 +1,16 @@
 {
   "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true 
+    "source.fixAll": true,
+    "source.fixAll.eslint": true
   },
-  "eslint.validate": ["typescript"]
+  "editor.formatOnSave": true,
+  "eslint.validate": [
+    "typescript"
+  ],
+  "eslint.workingDirectories": [
+    "packages/**",
+  ],
+  "eslint.options": {
+    "overrideConfigFile": "./shared/.eslintrc.json",
+  }
 }
